@@ -1,5 +1,12 @@
 # WID3002 NLP Group Assignment
 Stock Sentiment Analysis based on News Headlines
+1. Muhammad Zyad Zarin bin Zamberi (17203070/2)
+2. Muhammad Azhar Bin Ibrahim (17206414/2)
+3. Muhammad Afiq Bin Baharudin (17206307/2)
+4. Muhammad Izzat Irfan bin Mohd Sani (17206368/2)
+5. Muhammad Aizat bin Zabidi (17203201/2)
+6. Muhammad TasnimSyamim bin Abdul Raki (17205733/2)
+7. Aiman Syazwan bin Adam (17201819/2)
 
 ## FrontEnd
 ![image](https://github.com/zyadzarin/NLP-Group-Assignment/assets/83915041/3a0ab700-c0cb-4bfd-b100-5ee16fb78cf5)
