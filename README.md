@@ -13,6 +13,13 @@ Stock Sentiment Analysis based on News Headlines
 ## Confusion Matrix 
 ![image](https://github.com/zyadzarin/NLP-Group-Assignment/assets/83915041/383d7b08-391e-4f68-8477-88caccae6a66)
 
+## Preprocessing Techniques
+1. Convert into lowercase
+2. Remove punctuation
+3. Remove stopword
+4. Tokenization
+6. POS Tagging
+7. Lemmatization
 
 ## How to run
   1. git clone to local machine
